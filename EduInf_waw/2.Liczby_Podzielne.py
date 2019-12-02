@@ -17,7 +17,7 @@ while i <= b:
     while j <= n: 
         if (i % p[j]) == 0:
             print("Liczba ",i,"dzieli się przez ",p[j])
-            
+            print("Test github")
             break 
         
         j += 1
